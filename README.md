@@ -4,18 +4,24 @@
 
 ## Education
 
-2020-2023 (expected):
-**Master's Degree, Cyberspace Security**;
+2020-2023 (expected)
+**Master's Degree, Cyberspace Security**
 
-School of Computer science, Fudan University (Shanghai)
+School of Computer science, Fudan University
 
     Average Grade: 3.575 / 4.0
-    Advanced Computer Networking (A)
-    Distributed Systems (A)
+    Advanced Computer Networking (A) & Distributed Systems (A)
 
-2016-2020:
-**Bachelor's Degree, Mechanical Engineering**;
+2016-2020
+**Bachelor's Degree, Mechanical Engineering**
 
-Department of Mechanical Engineering, Tsinghua University (Beijing)
+Department of Mechanical Engineering, Tsinghua University
 
-    Completed all basic computer science courses.
+    Passed (>= 3.3 / 4.0) all basic computer science courses
+
+## Internship Experience
+
+2020.11-2021.05 (expected)
+**Back-end Development Intern**
+
+Shanghai DaoCloud Co,.Ltd (@DaoCloud)
