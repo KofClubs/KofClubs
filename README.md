@@ -1,5 +1,7 @@
 # Zhang Zhanpeng
 
+:email: zhangzp16@outlook.com
+
 ## Education
 
 2020-2023 (expected):
