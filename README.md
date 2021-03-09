@@ -9,8 +9,8 @@
 
 School of Computer science, Fudan University
 
-    Average Grade: 3.575 / 4.0
-    Advanced Computer Networking (A) & Distributed Systems (A)
+    Average Grade: 3.600 / 4.0
+    Advanced Computer Networking (A), Distributed Systems (A)
 
 2016-2020
 **Bachelor's Degree, Mechanical Engineering**
