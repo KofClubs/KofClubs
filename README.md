@@ -21,7 +21,7 @@ Department of Mechanical Engineering, Tsinghua University
 
 ## Internship Experience
 
-2020.11-2021.05 (expected)
+2020.11-2021.05
 **Back-end Development Intern**
 
-Shanghai DaoCloud Co,.Ltd (@DaoCloud)
+Shanghai DaoCloud Co,.Ltd
