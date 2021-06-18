@@ -18,8 +18,8 @@ Department of Mechanical Engineering, Tsinghua University
 
 2020.11-2021.05;
 **Back-end Development Intern**;
-Shanghai DaoCloud Co,.Ltd (@DaoCloud)
+Shanghai DaoCloud Co., Ltd. ([**@DaoCloud**](https://github.com/DaoCloud))
 
-2021.05-;
+2021.05-2021.06;
 **Smart Contract Development Intern**;
-@moma-finance
+Shanghai Youfu Co., Ltd. ([**@moma-finance**](https://github.com/moma-finance))
